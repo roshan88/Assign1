@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="ExtentJarFiles/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="Poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="Poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="Poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="Poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="Poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="standalonejar/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
